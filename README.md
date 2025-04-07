@@ -1,4 +1,4 @@
-![Banner](./A_digital_illustration_features_a_stylized_represe.png)
+![Banner](./brain-banner.png)
 # Hi there! I'm Fedor 👋
 
 I'm a Project Manager with 5+ years of experience in launching products, leading cross-functional teams, and optimizing processes.  
