@@ -1,8 +1,7 @@
 ![Banner](./banner1.png)
 # Hi there! I'm Fedor 👋
 
-I'm a Project Manager with 5+ years of experience in launching products, leading cross-functional teams, and optimizing processes.  
-Currently transitioning into the IT industry and learning how to work more closely with tech teams.
+I'm a Project Manager with 5+ years of experience in launching products, leading cross-functional teams, and optimizing processes. Currently transitioning into the IT industry and learning how to work more closely with tech teams.
 
 ## 🚀 About Me
 - Strong background in product development and creative project management  
