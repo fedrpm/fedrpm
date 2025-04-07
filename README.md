@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! I'm Fedor 👋
 
-<!--
-**fedrpm/fedrpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Project Manager with 5+ years of experience in launching products, leading cross-functional teams, and optimizing processes.  
+Currently transitioning into the IT industry and learning how to work more closely with tech teams.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Strong background in product development and creative project management  
+- Experienced with Agile, Scrum, Jira, Notion, Trello, Miro  
+- Passionate about turning ideas into structured and scalable projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Learning & Goals
+- Gaining technical skills: Git, basic HTML/CSS, APIs  
+- Looking for opportunities as a Junior IT Project Manager or Business Analyst  
+- Open to collaboration on tech and creative projects
+
+## 📫 Let's connect
+[LinkedIn](https://www.linkedin.com/in/fedorfadeev)
